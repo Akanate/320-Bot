@@ -79,4 +79,4 @@ async def error_blacklist(ctx):
     embed.set_thumbnail(url="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/209/warning-sign_26a0.png")
     await ctx.send(embed=embed)
 
-bot.run('NjczNjIxNzE4NzE5NTI5MDIx.XjctIw.feQU5_J5gDZWGvNqw_gDQBZSa64')
+bot.run(token)
